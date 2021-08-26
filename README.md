@@ -11,11 +11,11 @@ within the pycharm command line interface execute "pip install scrapy scrapy-spl
 
 Follow the instructions for configuring scrapy-splash here https://github.com/scrapy-plugins/scrapy-splash
 
-  The settings.py file is actually called default_settings.py and can be found at \Lib\site-packages\scrapy\settings\default_settings.py
+    The settings.py file is actually called default_settings.py and can be found at \Lib\site-packages\scrapy\settings\default_settings.py
   
-  The splash server address is "http://localhost:8050/" since the docker instance is hosted on your computer
+    The splash server address is "http://localhost:8050/" since the docker instance is hosted on your computer
   
-  No need to worry about anything after step 4
+    No need to worry about anything after step 4
   
 Replace main.py in pycharm with the main.py you wish to use from this github. Instructions for changing search term/year parameters are included as comments in the script
 
