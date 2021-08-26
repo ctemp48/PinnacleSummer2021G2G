@@ -9,7 +9,7 @@ install pycharm
 
 within the pycharm command line interface execute "pip install scrapy scrapy-splash"
 
-Follow the instructions for configuring scrapy-splash here https://github.com/scrapy-plugins/scrapy-splash
+Follow the instructions for configuring scrapy-splash here https://github.com/scrapy-plugins/scrapy-splash (important notes below)
 
     The settings.py file is actually called default_settings.py and can be found at \Lib\site-packages\scrapy\settings\default_settings.py
   
