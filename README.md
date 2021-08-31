@@ -5,9 +5,9 @@ Within windows or mac command line execute "docker run -p 8050:8050 scrapinghub/
 
 The docker instance can now be run or stopped within the docker application
 
-install pycharm
+install pycharm or IDE of choice
 
-within the pycharm command line interface execute "pip install scrapy scrapy-splash"
+within the pycharm (or your IDE) command line interface execute "pip install scrapy scrapy-splash" *this is not the windows/mac command line it will be within your IDE*
 
 Follow the instructions for configuring scrapy-splash here https://github.com/scrapy-plugins/scrapy-splash (important notes below)
 
